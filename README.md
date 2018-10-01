@@ -1,0 +1,2 @@
+# solidabis-koodihaaste
+Ratkaisuehdotukseni Solidabiksen syksyn koodihaasteelle
